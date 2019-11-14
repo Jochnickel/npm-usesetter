@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Jochnickel/npm-usesetter/issues"
   },
-  "homepage": "https://github.com/Jochnickel/npm-usesetter#readme"
+  "homepage": "https://github.com/Jochnickel/npm-usesetter#readme",
+  "devDependencies": {
+    "typescript": "^3.7.2"
+  }
 }
