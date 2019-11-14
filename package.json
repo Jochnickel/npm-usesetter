@@ -1,0 +1,24 @@
+{
+  "name": "usesetter",
+  "version": "1.0.0",
+  "description": "protect your variables!! only use setters, no direct manipulation!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jochnickel/npm-usesetter.git"
+  },
+  "keywords": [
+    "useSetter",
+    "setter",
+    "usestate"
+  ],
+  "author": "Joachim Janke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jochnickel/npm-usesetter/issues"
+  },
+  "homepage": "https://github.com/Jochnickel/npm-usesetter#readme"
+}
